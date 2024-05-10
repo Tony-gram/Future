@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "29278832440",
+    "firebase_url": "https://elite-b1b7e-default-rtdb.firebaseio.com",
+    "project_id": "elite-b1b7e",
+    "storage_bucket": "elite-b1b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29278832440:android:73742a2700ca436a2423cd",
+        "android_client_info": {
+          "package_name": "com.example.easyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVOCbeXU8X9UoJpaPMacKXMaSt9Efn-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29278832440:android:b7622262dd35959a2423cd",
+        "android_client_info": {
+          "package_name": "com.example.future"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVOCbeXU8X9UoJpaPMacKXMaSt9Efn-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
